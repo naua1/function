@@ -1,4 +1,4 @@
 # function
 atividades do Instituto Proa 
 
-atividades para com intuitor de praticar para ver function em javascript
+atividades para com intuito de praticar para ver function em javascript
